@@ -45,3 +45,4 @@ The parser auto-detects common column name variants: Output Freq / RX Freq / Dow
 ## Status
 
 One radio supported: Baofeng BF-H802. Add a writer module for anything else & send a pull request.
+ 
